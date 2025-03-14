@@ -14,7 +14,9 @@ We will generate different **venv**s for every subproject.
 
 > conda create --name <subproject_name> python=3.12.9
 
-> sconda activate <subproject_name>
+> conda activate <subproject_name>
+
+eg. conda activate llamaIndexAgents
 
 ## 2. Installing the Requirements
 

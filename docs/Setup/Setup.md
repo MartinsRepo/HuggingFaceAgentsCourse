@@ -3,6 +3,7 @@
 **(a) Python Version used:** 3.12.9
 
 **(b) VENV aktivieren**
+
 A virtual environment is a Python environment such that the Python interpreter, libraries and scripts installed into it are isolated from those installed in other virtual environments. Here **conda** is used.
 We will generate different **venv**s for every subproject.
 
