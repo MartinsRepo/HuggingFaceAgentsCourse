@@ -3,18 +3,21 @@
 **(a) Python Version used:** 3.12.9
 
 **(b) VENV aktivieren**
-A virtual environment is a Python environment such that the Python interpreter, libraries and scripts installed into it are isolated from those installed in other virtual environments.
-We will generate diffeent **venv**s for every subproject.
+A virtual environment is a Python environment such that the Python interpreter, libraries and scripts installed into it are isolated from those installed in other virtual environments. Here **conda** is used.
+We will generate different **venv**s for every subproject.
 
 * Subprojects stored in the folder **notebooks** are:
     + smolAgents
     + llamaIndexAgents
 
-> python3 -m venv venv
+> cd notebooks/<subproject>
 
-> source venv/bin/activate
+> conda create --name venv python=3.12.9
+
+> sconda activate venv
 
 ## 2. Installing the Requirements
 
+Todo
 
 > Written with [StackEdit](https://stackedit.io/).
