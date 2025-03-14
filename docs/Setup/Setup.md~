@@ -12,9 +12,9 @@ We will generate different **venv**s for every subproject.
 
 > cd notebooks/<subproject>
 
-> conda create --name venv python=3.12.9
+> conda create --name <subproject_name> python=3.12.9
 
-> sconda activate venv
+> sconda activate <subproject_name>
 
 ## 2. Installing the Requirements
 
