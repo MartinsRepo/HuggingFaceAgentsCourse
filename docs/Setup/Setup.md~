@@ -4,6 +4,11 @@
 
 **(b) VENV aktivieren**
 A virtual environment is a Python environment such that the Python interpreter, libraries and scripts installed into it are isolated from those installed in other virtual environments.
+We will generate diffeent **venv**s for every subproject.
+
+* Subprojects stored in the folder **notebooks** are:
+    + smolAgents
+    + llamaIndexAgents
 
 > python3 -m venv venv
 > source venv/bin/activate

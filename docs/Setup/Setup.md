@@ -11,6 +11,7 @@ We will generate diffeent **venv**s for every subproject.
     + llamaIndexAgents
 
 > python3 -m venv venv
+
 > source venv/bin/activate
 
 ## 2. Installing the Requirements
