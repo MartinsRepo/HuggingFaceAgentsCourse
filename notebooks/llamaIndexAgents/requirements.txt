@@ -1,0 +1,8 @@
+python-dotenv
+ipywidgets
+datasets
+llama-index
+llama-index-callbacks-arize-phoenix
+llama-index-vector-stores-chroma
+llama-index-llms-huggingface
+llama-index-embeddings-huggingface

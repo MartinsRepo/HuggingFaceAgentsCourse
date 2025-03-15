@@ -21,6 +21,8 @@ eg. conda activate llamaIndexAgents
 
 ## 2. Installing the Requirements
 
-Todo
+> cd notebooks/llamaIndexAgents/
+
+
 
 > Written with [StackEdit](https://stackedit.io/).
