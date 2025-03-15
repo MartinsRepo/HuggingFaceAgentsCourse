@@ -178,3 +178,4 @@ notebooks/llamaIndexAgents/llamaindexagents.code-workspace
 alfred_chroma_db/
 data/
 .md~
+.kate-swp
