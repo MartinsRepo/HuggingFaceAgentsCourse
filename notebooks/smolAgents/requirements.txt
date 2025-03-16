@@ -1,2 +1,5 @@
 ipywidgets
 'smolagents[litellm]'
+diffusers 
+transformers 
+accelerate
