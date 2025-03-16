@@ -3,3 +3,7 @@ ipywidgets
 diffusers 
 transformers 
 accelerate
+torch
+langchain-community 
+rank_bm25
+
