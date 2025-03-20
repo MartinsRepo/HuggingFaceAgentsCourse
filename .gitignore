@@ -174,9 +174,9 @@ cython_debug/
 .pypirc
 .qodo
 
-notebooks/llamaIndexAgents/llamaindexagents.code-workspace
 alfred_chroma_db/
 data/
-.md~
+*.md~
 .kate-swp
 .quodo/
+*.code-workspace

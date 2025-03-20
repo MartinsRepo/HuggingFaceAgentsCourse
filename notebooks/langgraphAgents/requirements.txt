@@ -1,0 +1,5 @@
+python-dotenv
+ipywidgets
+langgraph
+langchain_openai
+langchain_huggingface
