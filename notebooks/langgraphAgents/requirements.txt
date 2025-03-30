@@ -1,5 +1,10 @@
 python-dotenv
 ipywidgets
 langgraph
+langfuse
+langchain
+langchain_core
 langchain_openai
 langchain_huggingface
+Pillow 
+pybase64
