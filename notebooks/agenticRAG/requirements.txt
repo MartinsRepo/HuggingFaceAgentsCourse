@@ -1,0 +1,11 @@
+python-dotenv
+ipywidgets
+langchain
+langchain_core
+langchain-community 
+langchain_openai
+langchain_huggingface
+datasets
+smolagents
+rank_bm25
+
