@@ -8,4 +8,5 @@ langchain_huggingface
 datasets
 smolagents
 rank_bm25
-
+llama-index
+llama-index-retrievers-bm25
